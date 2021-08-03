@@ -107,7 +107,7 @@ pf.admin.api.authentication=native
 #
 # When LDAP administrative-console authentication is enabled, this property
 # indicates the name of the file containing configuration properties.
-ldap.properties.file=ldap.properties
+ldap.properties.file=
 
 #
 # When certificate-based authentication is enabled, this property indicates the
